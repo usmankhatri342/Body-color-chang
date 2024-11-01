@@ -1,0 +1,71 @@
+#contenor{
+  text-align: center;
+  position: relative;
+  top: 450px;
+  border: 1px solid black;
+  border-radius: 25px;
+  height: 100px;
+  width: 75%;
+  text-align: center;
+  position: relative;
+  left: 150px;
+  background-color: rgb(195, 200, 204);
+  box-shadow: 10px 15px 20px;
+  
+}
+ button{
+  border: 2px solid transparent;
+  border-radius: 15px;
+  margin: 5px;
+  position: relative;
+  top: 20px;
+  box-shadow: 10px 5px 10px black;
+ 
+
+  
+ }
+ #red{
+  background-color: red;
+  color: white;
+ }
+ #White{
+  background-color: white;
+  color: black;
+ }
+ #Green{
+  background-color: green;
+  color: white ;
+ }
+
+ #Lime{
+  background-color: Lime;
+  color: white ;
+ }
+ #Yellow{
+  background-color: Yellow;
+  color: black;
+ }
+ #Pink{
+  background-color: Pink;
+  color: black;
+ }
+ #Purple{
+  background-color: Purple;
+  color: white ;
+ }
+ #Sky{
+  background-color: skyblue;
+  color: black ;
+ }
+ #Blue{
+  background-color: Blue;
+  color: white ;
+ }
+ #lightGray{
+  background-color: lightGray;
+  color: black ;
+ }
+ #Black{
+  background-color: Black;
+  color: white ;
+ }
